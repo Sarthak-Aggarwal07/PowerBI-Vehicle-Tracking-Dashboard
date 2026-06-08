@@ -32,15 +32,14 @@ This project was developed using Power BI for monitoring vehicle movement and op
 
 ## Dashboard Screenshots
 
-### Overview Dashboard
+### Overview and Trend anaysis Dashboard
+<img width="1599" height="899" alt="overview and trend analysis" src="https://github.com/user-attachments/assets/5196335a-70fc-4cf3-b53b-f4461f8d33ed" />
 
-![Overview](Screenshots/overview.png)
+### KPI and Fuel performance Analysis  Dashboard 
+<img width="1599" height="899" alt="KPI" src="https://github.com/user-attachments/assets/1057ec07-6713-40c4-8414-4a5cdfd7212f" />
 
-### KPI Dashboard
+### Table  Dashboard
+<img width="899" height="1599" alt="table" src="https://github.com/user-attachments/assets/9bf077a4-b69a-46e3-8b92-8699f29cf297" />
+<img width="1599" height="899" alt="table " src="https://github.com/user-attachments/assets/42a68e65-a540-4dc7-b31c-4df11a259ad5" />
 
-![KPI](Screenshots/kpi.png)
 
-
-### Vehicle Tracking Dashboard
-
-![Vehicle](Screenshots/vehicle_map.png)
